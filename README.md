@@ -1,3 +1,7 @@
+_Timber v2 is currently in beta, see https://github.com/mandrasch/ddev-wp-timber-v1 for an example repository of the current stable version._
+
+<hr>
+
 # DDEV + WordPress + Timber v2 + LaravelMix / Vite
 
 - [DDEV](https://ddev.readthedocs.io/en/latest/)
@@ -6,7 +10,6 @@
 
 
 🚧 Work in progress, currently broken, see [issue #135](https://github.com/timber/starter-theme/issues/135) 🚧
-
 
 See more experiments: https://my-ddev-lab.mandrasch.eu/
 
